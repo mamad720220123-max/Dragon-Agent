@@ -108,6 +108,7 @@ jobs:
 
       - name: Build Android APK
         run: |
+          ./gradlew clean --no-daemon
           ./gradlew assembleDebug --no-daemon --stacktrace
 
       - name: Package & Verify APK Output
