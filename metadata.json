@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Agent",
+  "description": "Autonomous AI Software Agent with segmented encrypted memory, multi-provider API engine, project workspace and live code sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
